@@ -1,2 +1,4 @@
 # perej1-manuscript
-My own class for writing manuscripts
+
+The goal is to create a latex class for writing manuscripts. This is my
+first-ever attempt to write a latex class.
